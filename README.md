@@ -1,6 +1,3 @@
-# LW15-Target-Genes
-## GSEA Gene Count Index
-### New Comparisons
-{RVN vs RC, H2 vs H1, H2 vs H12, H2 vs RFL, RVN vs H12, RVN vs H1, trop2 vs non}
-1. [Upregulated](https://github.com/ebowen19/LW15-Target-Genes/blob/main/Common%20Genes/New%20Comparisons/NewComparisons_Up_GeneTable.html)
-2. [Downregulated](https://github.com/ebowen19/LW15-Target-Genes/blob/main/Common%20Genes/New%20Comparisons/NewComparisons_Down_GeneTable.html)
+Results of LW15 target gene analysis using GSEA (with Hallmark, KEGG, Go & Reactome gene sets), Differential Expression Analysis/volcano plots, and Principal Component Analysis. See https://github.com/ebowen19/RNA-seq-Analysis, specifically the fgsea folder, for code associated with this analysis.
+
+Find the github pages index for the analysis here: https://ebowen19.github.io/LW15-Target-Genes/

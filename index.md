@@ -10,6 +10,7 @@ layout: default
 1. [Upregulated](/LW15-Target-Genes/Common%20Genes/New%20Comparisons/Without%20trop2/Up_GeneTable_interactive.html) (18)
 2. [Downregulated](/LW15-Target-Genes/Common%20Genes/New%20Comparisons/Without%20trop2/Down_GeneTable_interactive.html) (5)
 
+### Other
 **Original Comparisons**
 {RVN vs RC, H2 vs H1, H2 vs H12 , trop2 vs non}
 1. [Upregulated](/LW15-Target-Genes/Common%20Genes/Original%20Comparisons/OriginalComparisons_Up_GeneTable_interactive.html) (28)

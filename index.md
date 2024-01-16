@@ -44,8 +44,6 @@ title: Home
 ### Sensitive vs Non-Sensitive
 <figure>
   <img src="images/Volc plot screenshot.png" alt="149 significant genes: 114 upregulated & 39 downregulated" width="500"/>
-  <figcaption>149 significant genes: 114 upregulated & 39 downregulated</figcaption>
 </figure>
-
-
+*149 significant genes: 114 upregulated & 39 downregulated*
 

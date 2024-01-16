@@ -35,7 +35,7 @@ title: Home
 </figure>
 *Note: Sensitive vs resistant separate along PC1 & cell type replicate clusters are marked*
 
-<iframe src="images/3D_PCA_Plot.html" width="500" height="500"></iframe>
+<iframe src="images/3D_PCA_Plot.html" width="700" height="600"></iframe>
 *Interactive PCA plot (sensitive - blue & insensitive - red)*
 
 ### Top 200 PC1 Genes

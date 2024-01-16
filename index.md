@@ -32,10 +32,10 @@ title: Home
 ## PCA Data
 <figure>
   <img src="images/PCA Screenshot.png" alt="Sensitive vs resistant separated along PC1" width="500"/>
-  <figcaption>Sensitive vs resistant separated along PC1.</figcaption>
 </figure>
+*Note: Sensitive vs resistant separate along PC1 & cell type replicate clusters are marked*
 
-<iframe src="images/3D_PCA_Plot.html" width="800" height="600"></iframe>
+<iframe src="images/3D_PCA_Plot.html" width="500" height="500"></iframe>
 *Interactive PCA plot (sensitive - blue & insensitive - red)*
 
 ### Top 200 PC1 Genes

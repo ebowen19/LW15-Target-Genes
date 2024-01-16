@@ -1,6 +1,8 @@
 ---
 layout: default
+title: Home
 ---
+
 
 # LW15-Target-Genes
 ## GSEA Gene Count Index
@@ -24,8 +26,8 @@ New Comparisons
 ## PCA Data
 <img src="/images/PCA Screenshot.png" alt="Sensitive vs resistant separated along PC1" width="500"/>
 
-<iframe src="/images/3D_PCA_Plot.html" width="800"/>
-Interactive PCA plot
+<iframe src="/images/3D_PCA_Plot.html" width="800"></iframe>
+*Interactive PCA plot*
 
 ### Top 200 PC1 Genes
 

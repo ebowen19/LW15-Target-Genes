@@ -22,8 +22,12 @@ New Comparisons
 2. [Downregulated](/LW15-Target-Genes/Common%20Genes/New%20Comparisons/NewComparisons_Down_GeneTable_interactive.html) (4)
 
 ## PCA Data
+![Sensitive vs resistant separated along PC1](/images/PCA Screenshot.png)
 
 ### Top 200 PC1 Genes
 
 ## Volcano Plot Data
+### Sensitive vs Non-Sensitive
+![149 significant genes: 114 upregulated & 39 downregulated](/images/Volc plot screenshot.png)
+
 

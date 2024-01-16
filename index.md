@@ -15,15 +15,15 @@ title: Home
 <details>
 <summary><span style="font-weight: bold; font-size: 1.17em;">Other (click to expand)</span></summary>
 
-**Original Comparisons**
-{RVN vs RC, H2 vs H1, H2 vs H12 , trop2 vs non}
-1. [Upregulated](/LW15-Target-Genes/Common%20Genes/Original%20Comparisons/OriginalComparisons_Up_GeneTable_interactive.html) (28)
-2. [Downregulated](/LW15-Target-Genes/Common%20Genes/Original%20Comparisons/OriginalComparisons_Down_GeneTable_interactive.html) (16)
-
-**New Comparisons**
-{RVN vs RC, H2 vs H1, H2 vs H12, H2 vs RFL, RVN vs H12, RVN vs H1, trop2 vs non}
-1. [Upregulated](/LW15-Target-Genes/Common%20Genes/New%20Comparisons/NewComparisons_Up_GeneTable_interactive.html) (12)
-2. [Downregulated](/LW15-Target-Genes/Common%20Genes/New%20Comparisons/NewComparisons_Down_GeneTable_interactive.html) (4)
+  **Original Comparisons**
+  {RVN vs RC, H2 vs H1, H2 vs H12 , trop2 vs non}
+  1. [Upregulated](/LW15-Target-Genes/Common%20Genes/Original%20Comparisons/OriginalComparisons_Up_GeneTable_interactive.html) (28)
+  2. [Downregulated](/LW15-Target-Genes/Common%20Genes/Original%20Comparisons/OriginalComparisons_Down_GeneTable_interactive.html) (16)
+  
+  **New Comparisons**
+  {RVN vs RC, H2 vs H1, H2 vs H12, H2 vs RFL, RVN vs H12, RVN vs H1, trop2 vs non}
+  1. [Upregulated](/LW15-Target-Genes/Common%20Genes/New%20Comparisons/NewComparisons_Up_GeneTable_interactive.html) (12)
+  2. [Downregulated](/LW15-Target-Genes/Common%20Genes/New%20Comparisons/NewComparisons_Down_GeneTable_interactive.html) (4)
 
 </details>
 

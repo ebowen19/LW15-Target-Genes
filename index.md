@@ -36,7 +36,7 @@ title: Home
 </figure>
 
 <iframe src="images/3D_PCA_Plot.html" width="800" height="600"></iframe>
-*Interactive PCA plot*
+*Interactive PCA plot (sensitive - blue & insensitive - red)*
 
 ### Top 200 PC1 Genes
 

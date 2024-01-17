@@ -41,10 +41,13 @@ title: Home
 
 ### Top 200 PC1 Genes
 
-## Volcano Plot Data
+## Volcano Plot (Differential Expression) Data
 ### Sensitive vs Non-Sensitive
 <figure>
   <img src="images/Volc plot screenshot.png" alt="149 significant genes: 114 upregulated & 39 downregulated" width="500"/>
 </figure>
 *149 significant genes: 114 upregulated & 39 downregulated*
+
+## Combined Analysis
+### [46 Common Genes between Volc Plot & PCA genes]()
 

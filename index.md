@@ -6,7 +6,8 @@ layout: default
 # LW15 Target Genes
 ## GSEA Gene Count Index
 - GSEA Performed using Hallmark, Reactome, GO, and KEGG gene sets.
-- Click on the gene set headings in the tables linked below to see the GSEA Pathways each gene has been found in.
+    - Click on the gene set headings in the tables linked below:
+          - see the GSEA Pathways each gene has been found in
 
 ### New Comparisons without trop2 (23 total genes)
 {RVN vs RC, H2 vs H1, H2 vs H12, H2 vs RFL, RVN vs H12, RVN vs H1}

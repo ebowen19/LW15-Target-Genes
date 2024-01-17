@@ -59,7 +59,8 @@ layout: default
 *149 significant genes: 114 upregulated & 39 downregulated*
 
 ## Combined Analysis
-### <a href="Common Genes/Volc & PCA Data/46_Overlapping_Genes.html">46 Common Genes between Volc Plot & PCA genes</a> 
+
+### <details><a href="Common%20Genes/Volc%20&%20PCA%20Data/46_Overlapping_Genes.html">46 Common Genes between Volc Plot & PCA genes</a></details>
 
 [46 Common Genes between Volc Plot & PCA genes](/LW15-Target-Genes/Common%20Genes/Volc%20%26%20PCA%20Data/46%20Overlapping%20Genes.csv)
 

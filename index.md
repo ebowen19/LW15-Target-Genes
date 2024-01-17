@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# LW15-Target-Genes
+# LW15 Target Genes
 ## GSEA Gene Count Index
 
 ### New Comparisons without trop2 (23 total genes)

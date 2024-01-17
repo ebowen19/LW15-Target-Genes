@@ -65,17 +65,20 @@ layout: default
 
 <!-- Venn Diagram Linked Image -->
 <figure>
-  <img src="images/Venn Diagram.png" alt="PCA & Volc Plot Venn Diagram" width="700" height="514" usemap="#imagemap">
+  <img src="images/Venn Diagram.png" alt="PCA & Volc Plot Venn Diagram" width="700" height="474" usemap="#imagemap">
   <figcaption><i>Click on text fields in venn diagram to see gene lists</i></figcaption>
 </figure>
 
 <map name="imagemap">
-  <area shape="rect" coords="90,71,290,121" alt="PCA Top 200 Genes" href="Common%20Genes/Volc%20%26%20PCA%20Data/PCA_Top_200_genes.html">
-  <area shape="rect" coords="358,72,542,123" alt="Volcano Plots 149 Significant Genes" href="Common%20Genes/Volc%20%26%20PCA%20Data/sensi_vs_non_total_genes.html">
-  <area shape="rect" coords="288,203,337,237" alt="46 Common Genes" href="Common%20Genes/Volc%20&%20PCA%20Data/46_Overlapping_Genes.html">
+  <area shape="rect" coords="94,41,293,92" alt="PCA Top 200 Genes" href="Common%20Genes/Volc%20%26%20PCA%20Data/PCA_Top_200_genes.html">
+  <area shape="rect" coords="359,42,545,93" alt="Volcano Plots 149 Significant Genes" href="Common%20Genes/Volc%20%26%20PCA%20Data/sensi_vs_non_total_genes.html">
+  <area shape="rect" coords="292,170,341,205" alt="46 Common Genes" href="Common%20Genes/Volc%20&%20PCA%20Data/46_Overlapping_Genes.html">
+  <area shape="rect" coords="126,158,206,201" alt="PCA Unique Genes" href="Common%20Genes/Volc%20%26%20PCA%20Data/PCA_unique.html">
+  <area shape="rect" coords="432,160,516,200" alt="Volcano Unique Genes" href="Common%20Genes/Volc%20%26%20PCA%20Data/volc_unique.html">
   <!-- Add more areas as needed -->
 
-[next: add in the stitch networks]
+## Stitch Networks
+
 
 <br> <!-- Add an empty line here -->
 <br> <!-- Add an empty line here -->

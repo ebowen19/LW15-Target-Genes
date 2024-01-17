@@ -6,7 +6,7 @@ layout: default
 # LW15-Target-Genes
 ## GSEA Gene Count Index
 
-### New Comparisons without trop2
+### New Comparisons without trop2 (23 total genes)
 {RVN vs RC, H2 vs H1, H2 vs H12, H2 vs RFL, RVN vs H12, RVN vs H1}
 1. [Upregulated](/LW15-Target-Genes/Common%20Genes/New%20Comparisons/Without%20trop2/Up_GeneTable_interactive.html) (18)
 2. [Downregulated](/LW15-Target-Genes/Common%20Genes/New%20Comparisons/Without%20trop2/Down_GeneTable_interactive.html) (5)
@@ -78,6 +78,14 @@ layout: default
   <!-- Add more areas as needed -->
 
 ## Stitch Networks
+Note: some genes cannot be found on the Stitch database
+### GSEA genes & common PCA/Volcano genes
+<iframe src="http://stitch.embl.de/cgi/network.pl?taskId=Bj8Z86TeGiyP" width="600" height="400"></iframe>
+[Stitch Network](http://stitch.embl.de/cgi/network.pl?taskId=Bj8Z86TeGiyP) (65 Genes on Stitch database)
+
+### GSEA genes & total PCA/Volcano genes
+<iframe src="http://stitch.embl.de/cgi/network.pl?taskId=IGQz3UZFH7gw" width="600" height="400"></iframe>
+[Stitch Network](http://stitch.embl.de/cgi/network.pl?taskId=IGQz3UZFH7gw) (259 Genes on Stitch database)
 
 
 <br> <!-- Add an empty line here -->

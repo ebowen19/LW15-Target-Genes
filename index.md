@@ -77,15 +77,11 @@ layout: default
   <area shape="rect" coords="432,160,516,200" alt="Volcano Unique Genes" href="Common%20Genes/Volc%20%26%20PCA%20Data/volc_unique.html">
   <!-- Add more areas as needed -->
 
-## Stitch Networks
+### Stitch Networks
 Note: some genes cannot be found on the Stitch database
-### GSEA genes & common PCA/Volcano genes
-<iframe src="http://stitch.embl.de/cgi/network.pl?taskId=Bj8Z86TeGiyP" width="600" height="400"></iframe>
-[Stitch Network](http://stitch.embl.de/cgi/network.pl?taskId=Bj8Z86TeGiyP) (65 Genes on Stitch database)
 
-### GSEA genes & total PCA/Volcano genes
-<iframe src="http://stitch.embl.de/cgi/network.pl?taskId=IGQz3UZFH7gw" width="600" height="400"></iframe>
-[Stitch Network](http://stitch.embl.de/cgi/network.pl?taskId=IGQz3UZFH7gw) (259 Genes on Stitch database)
+1. **[GSEA genes & common PCA/Volcano genes](http://stitch.embl.de/cgi/network.pl?taskId=Bj8Z86TeGiyP)** (65 Genes on Stitch database)
+2. **[GSEA genes & total PCA/Volcano genes](http://stitch.embl.de/cgi/network.pl?taskId=IGQz3UZFH7gw)** (259 Genes on Stitch database)
 
 
 <br> <!-- Add an empty line here -->

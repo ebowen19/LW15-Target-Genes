@@ -53,7 +53,7 @@ layout: default
 <figure>
   <img src="images/Volc plot screenshot.png" alt="149 significant genes: 114 upregulated & 39 downregulated" width="600"/>
 </figure>
-*149 significant genes: 114 upregulated & 39 downregulated*
+*149 significant genes: 114 upregulated & 39 downregulated in sensitive group*
 
 ### Significant Volcano Plot Genes
 1. [Upregulated](/LW15-Target-Genes/Common%20Genes/Volc%20%26%20PCA%20Data/sensi_vs_non_upregulated_genes.html) (114)

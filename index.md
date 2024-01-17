@@ -72,7 +72,7 @@ layout: default
 <br> <!-- Add an empty line here -->
 <br> <!-- Add an empty line here -->
 <br> <!-- Add an empty line here -->
-## 
+
 <footer>
   <!-- other footer content -->
 

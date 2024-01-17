@@ -63,7 +63,8 @@ layout: default
 <iframe src="images/3D_PCA_Plot.html" width="700" height="600"></iframe>
 *sensitive - blue & insensitive - red*
 
-## Volcano Plot (Differential Expression) Data - Sensitive vs Non-Sensitive
+## Volcano Plot (Differential Expression) Data
+### Sensitive vs Non-Sensitive
 <figure>
   <img src="images/Volc plot screenshot.png" alt="149 significant genes: 114 upregulated & 39 downregulated" width="600"/>
 </figure>

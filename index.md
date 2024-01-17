@@ -58,8 +58,6 @@ layout: default
 ### Significant Volcano Plot Genes
 1. [Upregulated](/LW15-Target-Genes/Common%20Genes/Volc%20%26%20PCA%20Data/sensi_vs_non_upregulated_genes.html) (114)
 2. [Downregulated](/LW15-Target-Genes/Common%20Genes/Volc%20%26%20PCA%20Data/sensi_vs_non_downregulated_genes.html) (39)
-3. [Total](/LW15-Target-Genes/Common%20Genes/Volc%20%26%20PCA%20Data/sensi_vs_non_total_genes.html) (149)
-4. [Unique]() (Not in PCA genes: #)
 
 ## Combined Analysis
 

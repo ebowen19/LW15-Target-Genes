@@ -49,7 +49,9 @@ layout: default
 <iframe src="images/3D_PCA_Plot.html" width="700" height="600"></iframe>
 *sensitive - blue & insensitive - red*
 
-### Top 200 PC1 Genes
+### Significant PCA Genes
+1. [Top 200 PC1 Genes](/LW15-Target-Genes/Common%20Genes/Volc%20%26%20PCA%20Data/PCA_Top_200_genes.html)
+2. 
 
 ## Volcano Plot (Differential Expression) Data
 ### Sensitive vs Non-Sensitive
@@ -58,10 +60,10 @@ layout: default
 </figure>
 *149 significant genes: 114 upregulated & 39 downregulated*
 
-#### Significant Genes
+#### Significant Volcano Plot Genes
 1. [Upregulated](/LW15-Target-Genes/Common%20Genes/Volc%20%26%20PCA%20Data/sensi_vs_non_upregulated_genes.html) (114)
 2. [Downregulated](/LW15-Target-Genes/Common%20Genes/Volc%20%26%20PCA%20Data/sensi_vs_non_downregulated_genes.html) (39)
-3. Total 
+3. [Total](/LW15-Target-Genes/Common%20Genes/Volc%20%26%20PCA%20Data/sensi_vs_non_total_genes.html) (149)
 
 ## Combined Analysis
 

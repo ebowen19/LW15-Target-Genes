@@ -11,6 +11,20 @@ layout: default
 1. [Upregulated](/LW15-Target-Genes/Common%20Genes/New%20Comparisons/Without%20trop2/Up_GeneTable_interactive.html) (18)
 2. [Downregulated](/LW15-Target-Genes/Common%20Genes/New%20Comparisons/Without%20trop2/Down_GeneTable_interactive.html) (5)
 
+<div style="position: fixed; top: 10px; right: 10px; border: 1px solid black; padding: 10px;">
+    <strong>Cell Type Abbreviation Legend:</strong>
+    <ul>
+        <li><u><p style="color: blue;">Statin-Sensitive/p></u></li>
+        <li><b>RC: </b>VHL(+)</li>
+        <li><b>H1: </b>VHL(+),Hif1(-)</li>
+        <li><b>H12: </b>VHL(+),Hif1/2(-)</li>
+        <li><u><p style="color: red;">Statin-Insensitive/p></u></li>
+        <li><b>H2: </b>VHL(+),Hif2(-)</li>
+        <li><b>RVN: </b>VHL(-)</li>
+    </ul>
+</div>
+
+
 <details>
 <summary><span style="font-weight: bold; font-size: 1.17em;">Other (click to expand)</span></summary>
 <br> <!-- Add an empty line here -->
@@ -60,6 +74,8 @@ layout: default
 2. [Downregulated](/LW15-Target-Genes/Common%20Genes/Volc%20%26%20PCA%20Data/sensi_vs_non_downregulated_genes.html) (39)
 
 ## Combined Analysis
+### PCA & Volcano: <p style="color: red;">*Every Text field in the Venn Diagram is clickable to see gene lists*</p>
+
 
 <!-- Venn Diagram Linked Image -->
 <figure>
@@ -78,8 +94,8 @@ layout: default
 <h3>Stitch Networks</h3>
 <p>Note: some genes cannot be found on the Stitch database</p>
 <ol>
-  <li><a href="http://stitch.embl.de/cgi/network.pl?taskId=Bj8Z86TeGiyP" target="_blank">GSEA genes &amp; common PCA/Volcano genes</a> (65 Genes on Stitch database)</li>
-  <li><a href="http://stitch.embl.de/cgi/network.pl?taskId=IGQz3UZFH7gw" target="_blank">GSEA genes &amp; total PCA/Volcano genes</a> (259 Genes on Stitch database)</li>
+  <li><a href="http://stitch.embl.de/cgi/network.pl?taskId=Bj8Z86TeGiyP" target="_blank">23 GSEA genes &amp; 46 common PCA/Volcano genes</a> (65 Genes on Stitch database)</li>
+  <li><a href="http://stitch.embl.de/cgi/network.pl?taskId=IGQz3UZFH7gw" target="_blank">23 GSEA genes &amp; 303 total PCA/Volcano genes</a> (259 Genes on Stitch database)</li>
 </ol>
 
 <footer>

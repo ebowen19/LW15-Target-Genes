@@ -74,7 +74,8 @@ layout: default
 2. [Downregulated](/LW15-Target-Genes/Common%20Genes/Volc%20%26%20PCA%20Data/sensi_vs_non_downregulated_genes.html) (39)
 
 ## Combined Analysis
-### PCA & Volcano: <p style="color: red;">*Every Text field in the Venn Diagram is clickable to see gene lists*</p>
+### PCA & Volcano: 
+<p><strong style="color: red;">Every Text field in the Venn Diagram is clickable to see gene lists</strong></p>
 
 
 <!-- Venn Diagram Linked Image -->

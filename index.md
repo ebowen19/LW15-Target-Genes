@@ -41,7 +41,7 @@ layout: default
 
 ## PCA Data
 <figure>
-  <img src="images/PCA Screenshot.png" alt="Sensitive vs resistant separated along PC1" width="500"/>
+  <img src="images/PCA Screenshot.png" alt="Sensitive vs resistant separated along PC1" width="600"/>
 </figure>
 *Note: Sensitive vs resistant separate along PC1 & cell type replicate clusters are marked*
 
@@ -49,13 +49,9 @@ layout: default
 <iframe src="images/3D_PCA_Plot.html" width="700" height="600"></iframe>
 *sensitive - blue & insensitive - red*
 
-### Significant PCA Genes
-1. [Top 200 PC1 Genes](/LW15-Target-Genes/Common%20Genes/Volc%20%26%20PCA%20Data/PCA_Top_200_genes.html)
-2. [Unique]() (Not in volcano plot genes: #)
-
 ## Volcano Plot (Differential Expression) Data - Sensitive vs Non-Sensitive
 <figure>
-  <img src="images/Volc plot screenshot.png" alt="149 significant genes: 114 upregulated & 39 downregulated" width="500"/>
+  <img src="images/Volc plot screenshot.png" alt="149 significant genes: 114 upregulated & 39 downregulated" width="600"/>
 </figure>
 *149 significant genes: 114 upregulated & 39 downregulated*
 
@@ -67,17 +63,16 @@ layout: default
 
 ## Combined Analysis
 
-### <a href="Common%20Genes/Volc%20&%20PCA%20Data/46_Overlapping_Genes.html">46 Common Genes between Volc Plot & PCA genes</a>
-
 <!-- Venn Diagram Linked Image -->
 <figure>
   <img src="images/Venn Diagram.png" alt="Alt text for image" usemap="#imagemap">
-  <figcaption>Click on text fields to see gene lists</figcaption>
+  <figcaption><i>Click on text fields to see gene lists</i></figcaption>
 </figure>
 
 <map name="imagemap">
-  <area shape="rect" coords="34,44,270,350" alt="Alt text for area 1" href="http://example.com/link1">
-  <area shape="circle" coords="337,300,44" alt="Alt text for area 2" href="http://example.com/link2">
+  <area shape="rect" coords="165,130,538,224" alt="PCA Top 200 Genes" href="Common%20Genes/Volc%20%26%20PCA%20Data/PCA_Top_200_genes.html">
+  <area shape="rect" coords="661,128,1008,228" alt="Volcano Plots 149 Significant Genes" href="Common%20Genes/Volc%20%26%20PCA%20Data/sensi_vs_non_total_genes.html">
+  <area shape="rect" coords="533,370,624,437" alt="46 Common Genes" href="Common%20Genes/Volc%20&%20PCA%20Data/46_Overlapping_Genes.html">
   <!-- Add more areas as needed -->
 </map>
 

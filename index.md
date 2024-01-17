@@ -69,11 +69,10 @@ layout: default
   <figcaption><i>Click on text fields to see gene lists</i></figcaption>
 </figure>
 
-<map name="imagemap">
-  <area shape="rect" coords="165,130,538,224" alt="PCA Top 200 Genes" href="Common%20Genes/Volc%20%26%20PCA%20Data/PCA_Top_200_genes.html">
-  <area shape="rect" coords="661,128,1008,228" alt="Volcano Plots 149 Significant Genes" href="Common%20Genes/Volc%20%26%20PCA%20Data/sensi_vs_non_total_genes.html">
-  <area shape="rect" coords="533,370,624,437" alt="46 Common Genes" href="Common%20Genes/Volc%20&%20PCA%20Data/46_Overlapping_Genes.html">
-  <!-- Add more areas as needed -->
+<map name="image-map">
+    <area target="" alt="PCA Top 200 Genes" title="PCA Top 200 Genes" href="Common%20Genes/Volc%20%26%20PCA%20Data/PCA_Top_200_genes.html" coords="165,130,539,222" shape="rect">
+    <area target="" alt="Volcano Plots 149 Significant Genes" title="Volcano Plots 149 Significant Genes" href="Common%20Genes/Volc%20%26%20PCA%20Data/sensi_vs_non_total_genes.html" coords="661,130,1006,227" shape="rect">
+    <area target="" alt="46 Common Genes" title="46 Common Genes" href="Common%20Genes/Volc%20&amp;%20PCA%20Data/46_Overlapping_Genes.html" coords="539,374,622,436" shape="rect">
 </map>
 
 

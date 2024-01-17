@@ -8,6 +8,7 @@ layout: default
 GSEA Performed using Hallmark, Reactome, GO, and KEGG gene sets.
 
 Click on the gene set headings in the tables linked below
+
 to see the GSEA pathways each gene has been found in.
 
 ### New Comparisons without trop2 (23 total genes)

@@ -65,7 +65,7 @@ layout: default
 
 <!-- Venn Diagram Linked Image -->
 <figure>
-  <img src="images/Venn Diagram.png" alt="PCA & Volc Plot Venn Diagram" width="700" usemap="#imagemap">
+  <img src="images/Venn Diagram.png" alt="PCA & Volc Plot Venn Diagram" width="700" height="510" usemap="#imagemap">
   <figcaption><i>Click on text fields to see gene lists</i></figcaption>
 </figure>
 

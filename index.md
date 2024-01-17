@@ -14,7 +14,7 @@ title: Home
 
 <details>
 <summary><span style="font-weight: bold; font-size: 1.17em;">Other (click to expand)</span></summary>
-
+<br> <!-- Add an empty line here -->
 <div>
   <p style="margin-left: 20px;"><strong>Original Comparisons</strong></p>
   <div style="margin-left: 40px;">
@@ -34,8 +34,8 @@ title: Home
     </ol>
   </div>
 </div>
-
 </details>
+
 
 
 

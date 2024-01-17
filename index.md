@@ -68,6 +68,20 @@ layout: default
 ## Combined Analysis
 
 ### <a href="Common%20Genes/Volc%20&%20PCA%20Data/46_Overlapping_Genes.html">46 Common Genes between Volc Plot & PCA genes</a>
+
+<!-- Venn Diagram Linked Image -->
+<figure>
+  <img src="images/Venn Diagram.png" alt="Alt text for image" usemap="#imagemap">
+  <figcaption>Click on text fields to see gene lists</figcaption>
+</figure>
+
+<map name="imagemap">
+  <area shape="rect" coords="34,44,270,350" alt="Alt text for area 1" href="http://example.com/link1">
+  <area shape="circle" coords="337,300,44" alt="Alt text for area 2" href="http://example.com/link2">
+  <!-- Add more areas as needed -->
+</map>
+
+
 <br> <!-- Add an empty line here -->
 <br> <!-- Add an empty line here -->
 <br> <!-- Add an empty line here -->

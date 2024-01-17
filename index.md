@@ -75,6 +75,7 @@ layout: default
   <area shape="rect" coords="288,203,337,237" alt="46 Common Genes" href="Common%20Genes/Volc%20&%20PCA%20Data/46_Overlapping_Genes.html">
   <!-- Add more areas as needed -->
 
+[next: add in the stitch networks]
 
 <br> <!-- Add an empty line here -->
 <br> <!-- Add an empty line here -->

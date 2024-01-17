@@ -58,8 +58,14 @@ layout: default
 </figure>
 *149 significant genes: 114 upregulated & 39 downregulated*
 
+#### Significant Genes
+1. [Upregulated](/LW15-Target-Genes/Common%20Genes/Volc%20%26%20PCA%20Data/sensi_vs_non_upregulated_genes.html) (114)
+2. [Downregulated](/LW15-Target-Genes/Common%20Genes/Volc%20%26%20PCA%20Data/sensi_vs_non_downregulated_genes.html) (39)
+3. Total 
+
 ## Combined Analysis
 
 ### <a href="Common%20Genes/Volc%20&%20PCA%20Data/46_Overlapping_Genes.html">46 Common Genes between Volc Plot & PCA genes</a>
+
 
 

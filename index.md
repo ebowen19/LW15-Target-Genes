@@ -12,17 +12,16 @@ layout: default
 2. [Downregulated](/LW15-Target-Genes/Common%20Genes/New%20Comparisons/Without%20trop2/Down_GeneTable_interactive.html) (5)
 
 <div style="position: fixed; top: 10px; right: 10px; border: 1px solid black; padding: 10px; background-color: white; z-index: 1000;">
-    <strong>Cell Type Abbreviation Legend:</strong>
-    <ul>
-        <li><u style="color: blue;">Statin-Sensitive</u></li>
-        <li><b>RC: </b>VHL(+)</li>
-        <li><b>H1: </b>VHL(+),Hif1(-)</li>
-        <li><b>H12: </b>VHL(+),Hif1/2(-)</li>
-        <li><u style="color: red;">Statin-Insensitive</u></li>
-        <li><b>H2: </b>VHL(+),Hif2(-)</li>
-        <li><b>RVN: </b>VHL(-)</li>
-    </ul>
+    <strong>Cell Type Abbreviation Legend:</strong><br>
+    <u style="color: blue;">Statin-Sensitive</u><br>
+    <b>RC: </b>VHL(+)<br>
+    <b>H1: </b>VHL(+), Hif1(-)<br>
+    <b>H12: </b>VHL(+), Hif1/2(-)<br>
+    <u style="color: red;">Statin-Insensitive</u><br>
+    <b>H2: </b>VHL(+), Hif2(-)<br>
+    <b>RVN: </b>VHL(-)
 </div>
+
 
 
 

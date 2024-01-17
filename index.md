@@ -73,21 +73,16 @@ layout: default
   <area shape="rect" coords="292,170,341,205" alt="46 Common Genes" href="Common%20Genes/Volc%20&%20PCA%20Data/46_Overlapping_Genes.html">
   <area shape="rect" coords="126,158,206,201" alt="PCA Unique Genes" href="Common%20Genes/Volc%20%26%20PCA%20Data/PCA_unique.html">
   <area shape="rect" coords="432,160,516,200" alt="Volcano Unique Genes" href="Common%20Genes/Volc%20%26%20PCA%20Data/volc_unique.html">
-  <!-- Add more areas as needed -->
+
 
 ### Stitch Networks
 Note: some genes cannot be found on the Stitch database
 
-1. **[GSEA genes & common PCA/Volcano genes](http://stitch.embl.de/cgi/network.pl?taskId=Bj8Z86TeGiyP)** (65 Genes on Stitch database)
-2. **[GSEA genes & total PCA/Volcano genes](http://stitch.embl.de/cgi/network.pl?taskId=IGQz3UZFH7gw)** (259 Genes on Stitch database)
-
-
-<br> <!-- Add an empty line here -->
-<br> <!-- Add an empty line here -->
-<br> <!-- Add an empty line here -->
-<br> <!-- Add an empty line here -->
+1. [GSEA genes & common PCA/Volcano genes](http://stitch.embl.de/cgi/network.pl?taskId=Bj8Z86TeGiyP) (65 Genes on Stitch database)
+2. [GSEA genes & total PCA/Volcano genes](http://stitch.embl.de/cgi/network.pl?taskId=IGQz3UZFH7gw) (259 Genes on Stitch database)
 
 <footer>
+  <br>
   <!-- other footer content -->
 
   <!-- Link to GitHub profile -->

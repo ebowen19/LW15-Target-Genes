@@ -68,6 +68,14 @@ layout: default
 ## Combined Analysis
 
 ### <a href="Common%20Genes/Volc%20&%20PCA%20Data/46_Overlapping_Genes.html">46 Common Genes between Volc Plot & PCA genes</a>
+<br> <!-- Add an empty line here -->
+<br> <!-- Add an empty line here -->
+<br> <!-- Add an empty line here -->
+<br> <!-- Add an empty line here -->
 
+<footer>
+  <!-- other footer content -->
 
-
+  <!-- Link to GitHub profile -->
+  <a href="https://github.com/ebowen19/LW15-Target-Genes" target="_blank">LW15 Target Genes Github Repository</a> with html & csv files
+</footer>

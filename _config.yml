@@ -1,0 +1,10 @@
+title: LW15 Target Genes
+email: ebowen19@g.ucla.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  Results of LW15 RNA-seq analysis to find target genes affecting sensitivity to statins.
+baseurl: "/LW15-Target-Genes" # the subpath of your site, e.g. /blog
+url: "https://ebowen19.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+theme: minima # or any other theme you want to use

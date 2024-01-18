@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div style="position: relative;">
-  <div style="position: absolute; top: 10px; right: 10px; border: 1px solid black; padding: 10px; background-color: white;">
+  <div style="position: fixed; top: 10px; right: 10px; border: 1px solid black; padding: 10px; background-color: white;">
       <strong>Cell Type Abbreviation Legend:</strong><br>
       <u style="color: blue;">Statin-Sensitive</u><br>
       <b>RC: </b>VHL(+)<br>

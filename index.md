@@ -2,6 +2,17 @@
 layout: default
 ---
 
+<div style="position: relative;">
+  <div style="position: absolute; top: 10px; right: 10px; border: 1px solid black; padding: 10px; background-color: white;">
+      <strong>Cell Type Abbreviation Legend:</strong><br>
+      <u style="color: blue;">Statin-Sensitive</u><br>
+      <b>RC: </b>VHL(+)<br>
+      <b>H1: </b>VHL(+), Hif1(-)<br>
+      <b>H12: </b>VHL(+), Hif1/2(-)<br>
+      <u style="color: red;">Statin-Insensitive</u><br>
+      <b>H2: </b>VHL(+), Hif2(-)<br>
+      <b>RVN: </b>VHL(-)
+  </div>
 ## GSEA Gene Count Index
 GSEA Performed using Hallmark, Reactome, GO, and KEGG gene sets.
 
@@ -11,18 +22,6 @@ Click on gene set headings in tables linked below to see which enriched pathways
 {RVN vs RC, H2 vs H1, H2 vs H12, H2 vs RFL, RVN vs H12, RVN vs H1}
 1. [Upregulated](/LW15-Target-Genes/Common%20Genes/New%20Comparisons/Without%20trop2/Up_GeneTable_interactive.html) (18)
 2. [Downregulated](/LW15-Target-Genes/Common%20Genes/New%20Comparisons/Without%20trop2/Down_GeneTable_interactive.html) (5)
-
-<div style="position: fixed; top: 10px; right: 10px; border: 1px solid black; padding: 10px; background-color: white; z-index: 1000;">
-    <strong>Cell Type Abbreviation Legend:</strong><br>
-    <u style="color: blue;">Statin-Sensitive</u><br>
-    <b>RC: </b>VHL(+)<br>
-    <b>H1: </b>VHL(+), Hif1(-)<br>
-    <b>H12: </b>VHL(+), Hif1/2(-)<br>
-    <u style="color: red;">Statin-Insensitive</u><br>
-    <b>H2: </b>VHL(+), Hif2(-)<br>
-    <b>RVN: </b>VHL(-)
-</div> 
-
 
 
 
@@ -101,7 +100,7 @@ Click on gene set headings in tables linked below to see which enriched pathways
   <li><a href="http://stitch.embl.de/cgi/network.pl?taskId=Bj8Z86TeGiyP" target="_blank">23 GSEA genes &amp; 46 common PCA/Volcano genes</a> (65 Genes on Stitch database)</li>
   <li><a href="http://stitch.embl.de/cgi/network.pl?taskId=IGQz3UZFH7gw" target="_blank">23 GSEA genes &amp; 303 total PCA/Volcano genes</a> (259 Genes on Stitch database)</li>
 </ul>
-
+</div>
 
 <footer>
   <br>

@@ -2,8 +2,6 @@
 layout: default
 ---
 
-
-# LW15 Target Genes
 ## GSEA Gene Count Index
 GSEA Performed using Hallmark, Reactome, GO, and KEGG gene sets.
 

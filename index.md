@@ -98,10 +98,11 @@ Click on gene set headings in tables linked below to see which pathways the gene
 
 <h3>Stitch Networks</h3>
 <p>Note: some genes cannot be found on the Stitch database</p>
-<ol>
+<ul>
   <li><a href="http://stitch.embl.de/cgi/network.pl?taskId=Bj8Z86TeGiyP" target="_blank">23 GSEA genes &amp; 46 common PCA/Volcano genes</a> (65 Genes on Stitch database)</li>
   <li><a href="http://stitch.embl.de/cgi/network.pl?taskId=IGQz3UZFH7gw" target="_blank">23 GSEA genes &amp; 303 total PCA/Volcano genes</a> (259 Genes on Stitch database)</li>
-</ol>
+</ul>
+
 
 <footer>
   <br>

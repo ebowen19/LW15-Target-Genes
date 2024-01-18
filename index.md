@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<div style="position: relative;">
   <div style="position: fixed; top: 10px; right: 10px; border: 1px solid black; padding: 10px; background-color: white;">
       <strong>Cell Type Abbreviation Legend:</strong><br>
       <u style="color: blue;">Statin-Sensitive</u><br>
@@ -100,7 +99,6 @@ Click on gene set headings in tables linked below to see which enriched pathways
   <li><a href="http://stitch.embl.de/cgi/network.pl?taskId=Bj8Z86TeGiyP" target="_blank">23 GSEA genes &amp; 46 common PCA/Volcano genes</a> (65 Genes on Stitch database)</li>
   <li><a href="http://stitch.embl.de/cgi/network.pl?taskId=IGQz3UZFH7gw" target="_blank">23 GSEA genes &amp; 303 total PCA/Volcano genes</a> (259 Genes on Stitch database)</li>
 </ul>
-</div>
 
 <footer>
   <br>

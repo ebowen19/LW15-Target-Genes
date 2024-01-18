@@ -12,7 +12,7 @@ Click on gene set headings in tables linked below to see which enriched pathways
 1. [Upregulated](/LW15-Target-Genes/Common%20Genes/New%20Comparisons/Without%20trop2/Up_GeneTable_interactive.html) (18)
 2. [Downregulated](/LW15-Target-Genes/Common%20Genes/New%20Comparisons/Without%20trop2/Down_GeneTable_interactive.html) (5)
 
-<div style="position: absolute; top: 10px; right: 10px; border: 1px solid black; padding: 10px; background-color: white; z-index: 1000;">
+<div style="position: fixed; top: 10px; right: 10px; border: 1px solid black; padding: 10px; background-color: white; z-index: 1000;">
     <strong>Cell Type Abbreviation Legend:</strong><br>
     <u style="color: blue;">Statin-Sensitive</u><br>
     <b>RC: </b>VHL(+)<br>

@@ -12,7 +12,7 @@ layout: default
       <b>H2: </b>VHL(+), Hif2(-)<br>
       <b>RVN: </b>VHL(-)
   </div>
-<u style="color: gray;">[Please view on desktop, not mobile]</u>
+<div style="color: gray;">[Please view on desktop, not mobile]</div>
   
 ## GSEA Gene Count Index
 GSEA Performed using Hallmark, Reactome, GO, and KEGG gene sets.

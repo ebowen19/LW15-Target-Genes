@@ -57,7 +57,7 @@ Click on gene set headings in tables linked below to see which enriched pathways
 
 ## PCA Data
 <figure>
-  <img src="/images/PCA Screenshot.png" alt="Sensitive vs resistant separated along PC1" width="600"/>
+  <img src="images/PCA Screenshot.png" alt="Sensitive vs resistant separated along PC1" width="600"/>
 </figure>
 *Note: Sensitive vs resistant separate along PC1 & cell type replicate clusters are marked*
 

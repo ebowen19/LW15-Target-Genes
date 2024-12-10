@@ -4,12 +4,12 @@ layout: default
 
   <div style="position: fixed; top: 10px; right: 10px; border: 1px solid black; padding: 10px; background-color: white;">
       <strong>Cell Type Abbreviation Legend:</strong><br>
-      <u style="color: blue;">Statin-Sensitive</u><br>
+      <u style="color: blue;">Statin-Inensitive</u><br>
       <b>RC: </b>VHL(+)<br>
-      <b>H1: </b>VHL(+), Hif1(-)<br>
-      <b>H12: </b>VHL(+), Hif1/2(-)<br>
-      <u style="color: red;">Statin-Insensitive</u><br>
-      <b>H2: </b>VHL(+), Hif2(-)<br>
+      <b>H1: </b>VHL(-), Hif1(-)<br>
+      <b>H12: </b>VHL(-), Hif1/2(-)<br>
+      <u style="color: red;">Statin-Sensitive</u><br>
+      <b>H2: </b>VHL(-), Hif2(-)<br>
       <b>RVN: </b>VHL(-)
   </div>
 <div style="color: gray;">[Please view on desktop, not mobile]</div>
